@@ -1,0 +1,9 @@
+admin;admin;1
+user;admin;0
+radon;radon;0
+Ivan;123;0
+Islyam;123;0
+Alesha;145;0
+ivan;123;0
+Zubogriz;Grizozub;0
+nikita600;123;0
