@@ -1,6 +1,4 @@
 # Формирование списков стоматологии 
-![image](https://user-images.githubusercontent.com/96480522/209629971-1b464639-fbdb-4487-9820-157574830d5e.png)
-
 # Цели 
 Целью программы является составление списков зарегистрированных пользователей на определённые услуги, предоставленные стоматологической клиникой. Данный список упрощает работу регистратуре стоматологии. Использовав данный список, регистратура сразу может выбрать определённого пользователя и выявить к какой услуге он был зарегистрирован и на какое время.
 
@@ -29,13 +27,15 @@
 # Getting Started
 Чтобы установить приложение, перейдите по [ссылке](https://github.com/RadonRebirth/Formirovanie-Spiskov-Stomotologii), нажмите на зеленую кнопку Code и выберете Download ZIP.
 
-![image](https://user-images.githubusercontent.com/96480522/209632659-b0581c56-b443-4325-aa1f-e12743103387.png)
+![image](https://user-images.githubusercontent.com/96480522/209831838-e7ed89df-18a0-44c1-8eec-9993469b1abc.png)
+
 
 После установки, распакуйте проект в любое удобное вам место, затем запустите его в среде разработки Microsoft Visual Studio (Файл - Открыть - Решение или проект).
 
-![image](https://user-images.githubusercontent.com/96480522/209632779-941fd46e-8c4a-4fed-8a41-ec5e1654ed46.png)
+![image](https://user-images.githubusercontent.com/96480522/209831900-0de2e7a3-c890-4b89-822c-03bad99a1d8b.png)
 
 Для запуска необходимо нажать на зелёную кнопку Пуск
 
-![image](https://user-images.githubusercontent.com/96480522/209632937-6c31a5c3-1d2e-443a-8364-e29a024264e5.png)
+![image](https://user-images.githubusercontent.com/96480522/209831967-8a453fc7-fac2-4469-8f05-440a44de08db.png)
+
 
