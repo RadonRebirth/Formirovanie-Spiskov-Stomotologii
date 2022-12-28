@@ -41,4 +41,19 @@
 
 ![image](https://user-images.githubusercontent.com/96480522/209831967-8a453fc7-fac2-4469-8f05-440a44de08db.png)
 
+# Документация
+
+<b>Пользовательская документация:</b>
+* [Руководство](https://github.com/RadonRebirth/Formirovanie-Spiskov-Stomotologii/wiki/Руководство-пользователя)
+
+<b>Документация разработки:</b>
+
+* [Техническое задание](https://github.com/RadonRebirth/Formirovanie-Spiskov-Stomotologii/wiki/1.-ТЗ)
+* [Спецификация](https://github.com/RadonRebirth/Formirovanie-Spiskov-Stomotologii/wiki/2.-Спецификации)
+* [Функциональные требования](https://github.com/RadonRebirth/Formirovanie-Spiskov-Stomotologii/wiki/3.Функциональные-требования)
+
+<b>Документация тестирование:</b>
+
+* [Тестовые пути и тестовый граф программы](https://github.com/RadonRebirth/Formirovanie-Spiskov-Stomotologii/wiki/8.-Тестовый-граф)
+* [Тест-кейсы](https://github.com/RadonRebirth/Formirovanie-Spiskov-Stomotologii/wiki/9.-Тест-кейсы)
 
