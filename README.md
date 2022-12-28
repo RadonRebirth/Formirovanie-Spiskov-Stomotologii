@@ -27,7 +27,7 @@
 # Разбработчик
 Разработчиком является Исаев Ислям, студент (ИТ - колледжа) ![RadonRebirth](https://github.com/RadonRebirth)
 
-# Getting Started
+# Установка
 Чтобы установить приложение, перейдите по [ссылке](https://github.com/RadonRebirth/Formirovanie-Spiskov-Stomotologii), нажмите на зеленую кнопку Code и выберете Download ZIP.
 
 ![image](https://user-images.githubusercontent.com/96480522/209831838-e7ed89df-18a0-44c1-8eec-9993469b1abc.png)
